@@ -1,0 +1,82 @@
+ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+/* * {
+    color: rgb(17, 17, 17); 
+}*/
+
+h1,h2 {
+    margin: 0.5%;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+a {
+    line-height: 35px;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+} 
+
+p {
+    margin: 0.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.test {
+    line-height: 30px;
+    transition: calc(5) ;
+    
+}
+
+.test:hover {
+    color: rgb(235, 9, 9);
+}
+
+.button {
+    background-color: rgb(124, 124, 218);
+    margin-right: 12px;
+}
+.button1 {
+    background-color: rgb(224, 228, 25);
+}
+
+.p {
+    color: blueviolet;
+}
+#test {
+    color: rgba(19, 192, 19, 0.5);
+}
+.home2 {
+    color: rgb(232, 238, 233);
+    font-size: 24px;
+    margin-right: 40px;
+}
+
+.home2:hover {
+    color: rgb(224, 189, 189);
+}
+
+.div1 {
+    height: 35px;
+    background-color: rgb(255, 28, 28);
+    width: 100vw;
+}
+
+.div1:hover {
+    background-color: rgb(255, 28, 28);
+   /* height: 55px;*/
+}
+body {
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.form {
+    text-align: center;
+}
+
+.form-index {
+    margin: 0.5%;
+}
